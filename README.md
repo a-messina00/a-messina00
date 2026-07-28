@@ -63,12 +63,12 @@ Cryptography           ████████░░░░  65%
 
 ### 📄 Academic Reports
 
-**[🔒 PoliTo Security Labs](https://github.com/a-messina00/polito-labs)** — Lab reports from the MSc Cybersecurity program
+**[🔒 PoliTo Security Labs](https://github.com/a-messina00/Polito-labs)** — Lab reports from the MSc Cybersecurity program
 
 | Report | Topic |
 |---|---|
-| [Wireless Security Report](https://github.com/a-messina00/polito-labs/blob/main/Wireless_report.pdf) | 802.11 security analysis, WPA2/WPA3, traffic capture |
-| [Wi-Fi Lab — Session 3](https://github.com/a-messina00/polito-labs/blob/main/Lab_WiFi-3.pdf) | Hands-on Wireshark analysis, 802.11 frame inspection |
+| [Wireless Security Report](https://github.com/a-messina00/Polito-labs/blob/main/Wireless_report.pdf) | 802.11 security analysis, WPA2/WPA3, traffic capture |
+| [Wi-Fi Lab — Session 3](https://github.com/a-messina00/Polito-labs/blob/main/Lab_WiFi-3.pdf) | Hands-on Wireshark analysis, 802.11 frame inspection |
 
 ---
 

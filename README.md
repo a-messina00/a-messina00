@@ -67,8 +67,8 @@ Cryptography           ████████░░░░  65%
 
 | Report | Topic |
 |---|---|
-| [Wireless Security Report](https://github.com/a-messina00/Polito-labs/blob/main/Wireless_report.pdf) | 802.11 security analysis, WPA2/WPA3, traffic capture |
-| [Wi-Fi Lab — Session 3](https://github.com/a-messina00/Polito-labs/blob/main/Lab_WiFi-3.pdf) | Hands-on Wireshark analysis, 802.11 frame inspection |
+| [Wireless Security Report](https://github.com/a-messina00/Polito-labs/blob/main/Wireless_report.pdf) | GNSS security, spoofing, jamming, signal vulnerabilities |
+| [Wi-Fi Lab — Session 3](https://github.com/a-messina00/Polito-labs/blob/main/Lab_WiFi-3.pdf) | Wi-Fi vs Ethernet goodput, Wireshark frame analysis |
 
 ---
 

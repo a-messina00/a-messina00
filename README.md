@@ -67,7 +67,7 @@ Cryptography           ████████░░░░  65%
 
 | Report | Topic |
 |---|---|
-| [Wireless Security Report](https://github.com/a-messina00/Polito-labs/blob/main/Wireless_report.pdf) | GNSS security, spoofing, jamming, signal vulnerabilities |
+| [GNSS Spoofing Analysis](https://github.com/a-messina00/Polito-labs/blob/main/GNSS_Spoofing_Analysis.pdf) | GNSS security, spoofing, jamming, signal vulnerabilities |
 | [Wi-Fi Lab — Session 3](https://github.com/a-messina00/Polito-labs/blob/main/Lab_WiFi-3.pdf) | Wi-Fi vs Ethernet goodput, Wireshark frame analysis |
 
 ---

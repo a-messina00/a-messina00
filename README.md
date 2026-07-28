@@ -1,7 +1,3 @@
-Review
-
-
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nino+%F0%9F%91%8B;Cybersecurity+%40+PoliTo;Full-Stack+Dev+%7C+Security+Enthusiast" alt="Typing SVG" />
 <br/>
